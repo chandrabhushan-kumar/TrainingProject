@@ -1,0 +1,39 @@
+.Pagewrapper{
+    height: 700px;
+    background-color: #f2f2f2;
+    margin-top: 50px;
+    box-shadow: 3px 3px 3px 3px #aaa;
+    border-top: 2px solid blue;
+}
+.Sup{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.Signupform{
+    height: 500px;
+    margin-top: 30px;
+    background-color:#fff;
+    box-shadow: 1px 1px 1px #f2f2f2;
+    border-radius: 10px;
+}
+.Caccount{
+    font-size: 20px;
+    text-align: center;
+    border-bottom: 1px solid #666;
+    padding-bottom: 15px;
+}
+.lname0,.fname0,.psw{
+    font-size: 20px;
+    padding-top: 20px;
+    font-weight: none!important;
+    
+    
+}
+.btn{
+    height: 50px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 3px #aaa;
+}

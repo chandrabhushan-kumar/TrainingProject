@@ -1,0 +1,37 @@
+.Loginwrapper{
+    height: 800px;
+    background-color: rgb(97, 97, 182);
+    margin-top: 30px;
+}
+.mainpage{
+    height: 600px;
+    background-color: #ffffff;
+    margin-top: 30px;
+    box-shadow: 0px 0px 2px #aaa;
+
+}
+
+.fa-user-circle{
+    height: 200px;
+    font-size: 110px;
+    margin-left: 140px;
+    margin-top: 50px;
+    color:#aaa;
+}
+.Userid{
+    margin-top: -70px;
+    font-size: 18px;
+    font-weight: none;
+}
+.pws0{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.forgotpsw{
+    height: 30px;
+    padding-top: 8px;
+    font-size: 16px;
+}
+
+    
+

@@ -1,0 +1,55 @@
+.Sinfo{
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.fname,.Mname,.lname,.dob,.email,.Nationality,.Admissioninclass,.Gender,.pschool,.Asession,.Raddress,.father,.mother,.Guardian{
+    font-size: 24px;
+    color: #fff;
+    margin-top: 100px;
+}
+.asterik{
+    color: red;
+}
+.input-group,.form-control{
+    height: 70px;
+    border-radius: 40px;
+}
+
+.FM{
+    padding-top: -20px;
+    font-weight: bold;
+} 
+.pinfo{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 30px;
+} 
+.sureName,.pfname,.pMname,.Mnumber{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: #fff;
+    margin-left: 10px;
+    margin-top: 20px;
+} 
+.Fdetails{
+    font-size: 14px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.subButton{
+    height: 80px!important;
+    background-color: rgb(22, 22, 107);
+    font-size: 40px;
+    margin-top: 150px!important;
+    font-weight: bold;
+    box-shadow: 0px 0px 2px 2px rgb(22, 22, 107);
+    cursor: pointer;
+
+}
+.error{
+    color:red;
+}
+
+

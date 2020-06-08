@@ -1,0 +1,57 @@
+.pagewrapper{
+    height: 400px;
+    background-color: #fff;
+    box-shadow: 4px 4px 20px solid #ddd;
+    border-top:4px solid blue;
+
+}
+.bgimg{
+    height:400px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    /* border-bottom:4px solid #00f; */
+    
+
+}
+.studimg{
+    height: 1110px;
+    background-color: #f2f2f2;
+    border-top: 4px solid #00f;
+     border-bottom: 4px solid#00f; 
+    margin-top: 30px;
+
+}
+.studentimage{
+    height: 300px;
+    width:300px;
+    background-color: #f2f2f2;
+    border: 1px solid #00f;
+    border-radius:100%; 
+    margin-top: 20px;
+    
+    
+}
+.Studentinformation{
+    height: 200px;
+    width: 700px;
+    text-align: center;
+    margin-left: -210px;
+    
+
+}
+
+
+.name,.dob1,.Email1,.nationality,.Admissioninclass1,.Studentage,.Previousschool,.Admissionsession,.residentialaddress{
+font-size: 24px;
+text-align: center;
+background-color: blue;
+margin-top: 20px;
+color: #fff;
+padding-top: -30px;
+
+}
+
+
+
+

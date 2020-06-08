@@ -1,0 +1,112 @@
+.dboard{
+border-bottom: 3px solid blue;
+  background-color: #fff;
+}
+.board1{
+    height: 120px;
+    background-color: #fff;
+    border: 10px solid #aaa;
+    margin-top: 20px!important;
+    
+}
+.sboard1{
+    height: 100px;
+    background-color: #00c0ef;
+}
+.sboard2{
+    height: 100px;
+    background-color: #dd4b39;
+}
+.sboard3{
+    height: 100px;
+    background-color: #00A65A;
+}
+.sboard4{
+    height: 100px;
+    background-color: #fe9c12;
+}
+.fas{
+    font-size: 44px;
+    margin-top: 28px;
+    margin-left: 10px;
+    text-align: center;
+    color: #f3f3f3;
+}
+.ctraffic{
+    height: 100px;
+    width: 100px;
+    margin-top: -99px;
+    margin-left: 110px;
+    padding-top: 5px;
+    color: #333;
+}
+.number{
+    font-size: 17px;
+    font-weight: bold;
+    color: #333;
+}
+.fab{
+    font-size: 44px;
+    margin-top: 28px;
+    margin-left: 10px;
+    text-align: center;
+    color: #f3f3f3;  
+}
+.like,.Sales{
+    height: 100px;
+    width: 100px;
+    margin-top: -99px;
+    margin-left: 110px;
+    padding-top: 5px;
+    color: #333;
+ 
+}
+.Number1,.Number2,.Number3{
+    font-size: 17px;
+    font-weight: bold;
+    color: #333;
+    
+}
+.Nmembers{
+    height: 100px;
+    width: 150px;
+    margin-top: -99px;
+    margin-left: 110px;
+    padding-top: 5px;
+    color: #333; 
+}
+
+
+.chart1{
+    height: 600px;
+    background-color: honeydew;
+     margin-top: 20px; 
+    border-top: 2px solid ;
+    padding-top:100px;
+    box-shadow: 1px 1px 3px #00c0ef;
+}
+.chart2{
+    height: 650px;
+    background-color: honeydew;
+    margin-top: 20px;
+    border-top: 2px solid ;
+    padding-top: 100px;
+    box-shadow: 2px 2px 3px #82d44b;
+
+}
+/* .chart3{
+    height: 300px; 
+    background-color: honeydew;
+    margin-top: 20px;
+    border-top: 2px solid ;
+    padding-top: 50px;
+    box-shadow: 3px 3px 3px #6e678a;
+}
+.chart4{
+     height: 300px; 
+    background-color: honeydew;
+    margin-top: 20px;
+    border-top: 2px solid ;
+    padding-top: 50px;
+    box-shadow: 1px 1px 3px #00c0ef;
+} */

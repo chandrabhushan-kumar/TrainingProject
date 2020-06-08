@@ -1,0 +1,22 @@
+.wcm{
+   font-size: 30px;
+   text-align: center;
+   padding-top: 20px;
+    
+}
+.Home{
+   height: 1550px;
+   background-color: #f2f2f2;
+}
+.equality{
+   font-size: 30px;
+   margin-top: 30px;
+}
+.wpluse,.echild,.pteacher,.aboutparents{
+   font-size: 20px;
+   padding-top: 20px;
+}
+.Geducation,.Teacher,.Parent{
+   font-size: 30px;
+   margin-top: 50px!important;
+}
